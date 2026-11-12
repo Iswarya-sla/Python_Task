@@ -1,0 +1,11 @@
+Names = ("Iswarya","Ramya","Kavya","Anbu")
+type(Names)
+print(Names[0])
+
+test = ("demo ")*4
+print(test)
+
+print("Ramya" in Names)
+
+for name in Names:
+  print(name)
